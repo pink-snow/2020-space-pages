@@ -1,0 +1,10 @@
+O₃ ozone   60133   O₃ ozone   O₃ ozone   O₃ ozone   O₃ ozone   O₃ ozone   O₃ ozone   61153
+58593 H
+H₂O water   CH₄ methane   Fe₂O₃ ferric oxide
+?
+Fe₂O₃ ferric oxide
+?   CC triple bond CC triple bond A CC triple bond CC triple bond CC triple bond A CC triple bond OO double bond   CC triple bond CC triple bond CC triple bond CC triple bond B CC triple bond CC triple bond CC triple bond OO double bond   B Fe₂O₃ ferric oxide
+A   ? C Al₂O₃  C Fe₂O₃ ferric oxide ?   C   SiO₂ silicon dioxide   FeO ferrous oxide Al₂O₃    NNaO₃ sodium nitrate Al₂O₃  C   B Al₂O₃ 
+MgCl₂ magnesium dichloride   MgCl₂ magnesium dichloride   MgCl₂ magnesium dichloride   MgCl₂ magnesium dichloride   MgCl₂ magnesium dichloride   NH₃ ammonia   MgCl₂ magnesium dichloride NH₃ ammonia   NH₃ ammonia
+H₂O water   H₂O water   H₂O water   H₂O water   H₂O water   H₂O water   H₂O water   H₂O water
+... ... ...

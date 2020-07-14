@@ -1,0 +1,12 @@
+61153
+MgCl₂ magnesium dichloride H₂O water   Al₂O₃  ? A ? ?   H H MgCl₂ magnesium dichloride H₂O water   MgCl₂ magnesium dichloride H₂O water
+H   A
+Al₂O₃    MgCl₂ magnesium dichloride H₂O water   60133 MgCl₂ magnesium dichloride   MgCl₂ magnesium dichloride H₂O water
+H₂O water   MgCl₂ magnesium dichloride
+A   H₂O water
+60133   MgCl₂ magnesium dichloride NH₃ ammonia
+A   H₂O water   ?
+B
+H   B   NH₃ ammonia H₂O water
+NH₃ ammonia H₂O water   B   Al₂O₃    B   NH₃ ammonia H₂O water
+... ... ...

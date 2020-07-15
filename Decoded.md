@@ -1,3 +1,9 @@
+# Links
+
+* [This file on GitHub](https://github.com/pink-snow/2020-space-pages/blob/gh-pages/Decoded.md)
+* [Other links](https://github.com/pink-snow/2020-space-pages/blob/gh-pages/Readme.md)
+* [Annotated images](https://pink-snow.github.io/2020-space-pages/0/)
+
 # Notation of this document
 
 * `p` `n` `e` proton neutron electron

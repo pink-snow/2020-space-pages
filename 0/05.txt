@@ -1,23 +1,23 @@
 35
-CH₄ methane   H   C   H
+ap   H   C   H
 H   H
 NH₃ ammonia   H   N   H
 H
-H₂O water   O   H
+H₂O water   0   H
 H
 CC triple bond   N   N
-N₂ double bond   O   O
-SiO₂ silicon dioxide   O   Si   O
-O₃ ozone   O   O   O
-FeO ferrous oxide   Fe   O
+ap   0   0
+SiO₂ silicon dioxide   0   Si   0
+O₃ ozone   0   0   0
+C₃H₆NO 3-amino-3-oxopropyl   Fe   0
 Al   Al
 Al₂O₃ 
-NNaO₃ sodium nitrate   O Na   O O O   N   O O
+NNaO₃ sodium nitrate   0 Na   0 0 0   N   0 0
 MgCl₂ magnesium dichloride   Cl   Mg   Cl
 Fe   Fe
-Fe₂O₃ ferric oxide
-O   O   O
-O   H H-Bond O   H   H-Bond
+C₃H₆NO 3-amino-3-oxopropyl
+0   0   0
+0   H H-Bond 0   H   H-Bond
 H   H
-H   H-Bond O H-Bond H   H-Bond O
+H   H-Bond 0 H-Bond H   H-Bond 0
 H   H

@@ -1,12 +1,12 @@
-H   N   H   B   B1   H   C   O
-H   C   C   C   O   H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H   O   C   C   H
-O   C   H   N   H H   H H   C   N   H
-N   H   H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond   O   C
+H   N   H   B   B1   H   C   0
+H   C   C   C   0   H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H   0   C   C   H
+0   C   H   N   H H   H H   C   N   H
+N   H   H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond   0   C
 C₂H₃O₂ carboxymethyl   C   H   H   C   C₂H₃O₂ carboxymethyl
-C   O   H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond   H   N
-H   N   H   H   H-Bond H   N   H   H   H   C   O
-H   C   C   C   C   O   H   C   N   C   C   C   C   H
-O   C   H   H   O   H   H-Bond H   N   H   H   H   H   N   H
-N   H   H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond   O   C
+C   0   H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond   H   N
+H   N   H   H   H-Bond H   N   H   H   H   C   0
+H   C   C   C   C   0   H   C   N   C   C   C   C   H
+0   C   H   H   0   H   H-Bond H   N   H   H   H   H   N   H
+N   H   H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond   0   C
 C₂H₃O₂ carboxymethyl   C   H   H   C   C₂H₃O₂ carboxymethyl
-C   O   H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond   H   N
+C   0   H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond   H   N

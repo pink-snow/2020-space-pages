@@ -1,5 +1,3 @@
-0
 H
-²H Deuterium   0
-0
+²H Deuterium
 ³H Tritium

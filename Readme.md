@@ -2,6 +2,7 @@
 
 ## This repository
 * https://github.com/pink-snow/2020-space-pages
+* https://pink-snow.github.io/2020-space-pages/
 * Annotated images: https://pink-snow.github.io/2020-space-pages/0
 * Decoded text: https://pink-snow.github.io/2020-space-pages/Decoded.html
 

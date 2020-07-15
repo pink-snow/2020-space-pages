@@ -1191,5 +1191,5 @@
 <rect x='15' y='279' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='29' y='293' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>N</text>
 <rect x='15' y='319' width='27' height='27' style='fill:green;opacity:0.5'/>
-<text x='29' y='333' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>0</text>
+<text x='29' y='333' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>O</text>
 </svg>

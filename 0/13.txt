@@ -1,9 +1,9 @@
 O₃ ozone   60133   O₃ ozone   O₃ ozone   O₃ ozone   O₃ ozone   O₃ ozone   O₃ ozone   ○ Planet
 A2 H
-H₂O water   ap   C₃H₆NO 3-amino-3-oxopropyl
-C₃H₆NO 3-amino-3-oxopropyl
-65517   CC triple bond CC triple bond CC triple bond CC triple bond CC triple bond CC triple bond ap   CC triple bond CC triple bond CC triple bond CC triple bond CC triple bond CC triple bond CC triple bond ap   C₃H₆NO 3-amino-3-oxopropyl
+H₂O water   CH₄ methane   Fe₂O₃ ferric oxide
+Fe₂O₃ ferric oxide
+65517   CC triple bond CC triple bond CC triple bond CC triple bond CC triple bond CC triple bond N₂ double bond   CC triple bond CC triple bond CC triple bond CC triple bond CC triple bond CC triple bond CC triple bond N₂ double bond   Fe₂O₃ ferric oxide
 A   A   B   B
-A   C Al₂O₃  C C₃H₆NO 3-amino-3-oxopropyl C   SiO₂ silicon dioxide   C₃H₆NO 3-amino-3-oxopropyl Al₂O₃    NNaO₃ sodium nitrate Al₂O₃  C   B Al₂O₃ 
+A   C Al₂O₃  C Fe₂O₃ ferric oxide C   SiO₂ silicon dioxide   FeO ferrous oxide Al₂O₃    NNaO₃ sodium nitrate Al₂O₃  C   B Al₂O₃ 
 MgCl₂ magnesium dichloride   MgCl₂ magnesium dichloride   MgCl₂ magnesium dichloride   MgCl₂ magnesium dichloride   MgCl₂ magnesium dichloride   NH₃ ammonia   MgCl₂ magnesium dichloride NH₃ ammonia   NH₃ ammonia
 H₂O water   H₂O water   H₂O water   H₂O water   H₂O water   H₂O water   H₂O water   H₂O water

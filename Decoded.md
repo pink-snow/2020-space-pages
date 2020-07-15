@@ -52,8 +52,19 @@ The notation is same as in the Pegovka numerals.
 
 # 05 - Molecules
 
-    35:Br  19p    // 35 should be [Br]omine, but there are only 19 protons (WHY)
-    Various molecules // TODO
+    35:Br                   19p    // 35 should be [Br]omine, but there are only 19 protons (WHY)
+    Methane                 CH4
+    Ammonia                 NH3
+    Water                   H2O
+    triple bond             N2
+    double bond             O2
+    Silicon Dioxide         SiO2
+    Ozone                   O3
+    Iron (II) Oxide         FeO
+    Aluminium (III) Oxide   Al2O3
+    Sodium Nitrate          NaNO3  // Shows covalent bond instead of ionic bond (WHY)
+    Magnesium Chloride      MgCl2  // Shows covalent bond instead of ionic (WHY)
+    Iron (III) Oxide        Fe2O3
     -----------------------------------
     title: Hydrogen_bond
 

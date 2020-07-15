@@ -5,14 +5,14 @@ NH₃ ammonia   H   N   H
 H
 H₂O water   O   H
 H
-CC triple bond   N   N
-N₂ double bond   O   O
+N₂ triple bond   N   N
+O₂ double bond   O   O
 SiO₂ silicon dioxide   O   Si   O
 O₃ ozone   O   O   O
 FeO ferrous oxide   Fe   O
 Al   Al
 Al₂O₃ 
-NNaO₃ sodium nitrate   O Na   O O O   N   O O
+NaNO₃ sodium nitrate   O Na   O O O   N   O O
 MgCl₂ magnesium dichloride   Cl   Mg   Cl
 Fe   Fe
 Fe₂O₃ ferric oxide

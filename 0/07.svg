@@ -14218,8 +14218,8 @@
 <rect x='175' y='727' width='19' height='19' style='fill:green;opacity:0.5'/>
 <text x='185' y='737' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>H</text>
 <rect x='15' y='775' width='35' height='35' style='fill:yellow;opacity:0.5'/>
-<text x='33' y='789' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>C₃H₈N₃</text>
-<text x='33' y='801' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:8px bold sans;'>unknown</text>
+<text x='33' y='789' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>C₃H₇N₃</text>
+<text x='33' y='801' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:2px bold sans;'>2-carbamimidamidoethyl</text>
 <rect x='95' y='775' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='109' y='789' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>C</text>
 <rect x='175' y='775' width='27' height='27' style='fill:green;opacity:0.5'/>
@@ -14278,7 +14278,7 @@
 <rect x='255' y='1039' width='19' height='19' style='fill:green;opacity:0.5'/>
 <text x='265' y='1049' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>H</text>
 <rect x='15' y='1087' width='35' height='35' style='fill:yellow;opacity:0.5'/>
-<text x='33' y='1101' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:8px bold sans;'>C₄H₁₀N₃</text>
+<text x='33' y='1101' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>C₄H₉N₃</text>
 <text x='33' y='1113' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:2px bold sans;'>3-carbamimidamidopropyl</text>
 <rect x='95' y='1087' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='109' y='1101' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>C</text>

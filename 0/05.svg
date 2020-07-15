@@ -7092,14 +7092,14 @@
 <rect x='135' y='255' width='19' height='19' style='fill:green;opacity:0.5'/>
 <text x='145' y='265' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>H</text>
 <rect x='15' y='311' width='35' height='35' style='fill:yellow;opacity:0.5'/>
-<text x='33' y='325' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>CC</text>
+<text x='33' y='325' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>N₂</text>
 <text x='33' y='337' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:5px bold sans;'>triple bond</text>
 <rect x='71' y='311' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='85' y='325' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>N</text>
 <rect x='151' y='311' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='165' y='325' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>N</text>
 <rect x='15' y='375' width='35' height='35' style='fill:yellow;opacity:0.5'/>
-<text x='33' y='389' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>N₂</text>
+<text x='33' y='389' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>O₂</text>
 <text x='33' y='401' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:5px bold sans;'>double bond</text>
 <rect x='71' y='375' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='85' y='389' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>O</text>
@@ -7145,7 +7145,7 @@
 <rect x='311' y='695' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='325' y='709' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>O</text>
 <rect x='15' y='719' width='35' height='35' style='fill:yellow;opacity:0.5'/>
-<text x='33' y='733' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>NNaO₃</text>
+<text x='33' y='733' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>NaNO₃</text>
 <text x='33' y='745' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>sodium nitrate</text>
 <rect x='71' y='719' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='85' y='733' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:22px bold sans;'>Na</text>

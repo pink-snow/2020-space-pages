@@ -1181,17 +1181,15 @@
 <rect x='15' y='79' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='29' y='93' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:22px bold sans;'>He</text>
 <rect x='15' y='119' width='27' height='27' style='fill:green;opacity:0.5'/>
-<text x='29' y='133' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>3</text>
+<text x='29' y='133' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:22px bold sans;'>Li</text>
 <rect x='15' y='159' width='27' height='27' style='fill:green;opacity:0.5'/>
-<text x='29' y='173' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>4</text>
+<text x='29' y='173' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:22px bold sans;'>Be</text>
 <rect x='15' y='199' width='27' height='27' style='fill:green;opacity:0.5'/>
-<text x='29' y='213' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>5</text>
+<text x='29' y='213' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>B</text>
 <rect x='15' y='239' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='29' y='253' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>C</text>
 <rect x='15' y='279' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='29' y='293' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>N</text>
 <rect x='15' y='319' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='29' y='333' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>O</text>
-<rect x='15' y='367' width='59' height='11' style='fill:gray;opacity:0.5'/>
-<text x='45' y='373' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:35px bold sans;'>...</text>
 </svg>

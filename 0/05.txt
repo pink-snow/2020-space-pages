@@ -6,7 +6,7 @@ H
 H₂O water   O   H
 H
 CC triple bond   N   N
-OO double bond   O   O
+N₂ double bond   O   O
 SiO₂ silicon dioxide   O   Si   O
 O₃ ozone   O   O   O
 FeO ferrous oxide   Fe   O
@@ -17,8 +17,7 @@ MgCl₂ magnesium dichloride   Cl   Mg   Cl
 Fe   Fe
 Fe₂O₃ ferric oxide
 O   O   O
-O   H 341 O   H   341
+O   H H-Bond O   H   H-Bond
 H   H
-H   341 O 341 H   341 O
+H   H-Bond O H-Bond H   H-Bond O
 H   H
-...

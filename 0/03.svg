@@ -1183,9 +1183,11 @@
 <rect x='71' y='159' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='85' y='173' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>0</text>
 <rect x='15' y='183' width='35' height='35' style='fill:red;opacity:0.5'/>
-<text x='33' y='201' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>49953</text>
+<text x='33' y='197' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>²H</text>
+<text x='33' y='209' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:6px bold sans;'>Deuterium</text>
 <rect x='71' y='279' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='85' y='293' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>0</text>
 <rect x='15' y='311' width='35' height='35' style='fill:red;opacity:0.5'/>
-<text x='33' y='329' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>50145</text>
+<text x='33' y='325' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>³H</text>
+<text x='33' y='337' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:8px bold sans;'>Tritium</text>
 </svg>

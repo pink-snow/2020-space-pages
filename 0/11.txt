@@ -1,13 +1,12 @@
-H   N   H   B   43753   H   C   O
-H   C   C   C   O   341 341 341 341 341 341 341 H   O   C   C   H
+H   N   H   B   B1   H   C   O
+H   C   C   C   O   H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H   O   C   C   H
 O   C   H   N   H H   H H   C   N   H
-N   H   341 341 341 341 341 341 341 341 341 341 341 341 341   O   C
+N   H   H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond   O   C
 C₂H₃O₂ carboxymethyl   C   H   H   C   C₂H₃O₂ carboxymethyl
-C   O   341 341 341 341 341 341 341 341 341 341 341 341 341   H   N
-H   N   H   H   341 H   N   H   H   H   C   O
+C   O   H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond   H   N
+H   N   H   H   H-Bond H   N   H   H   H   C   O
 H   C   C   C   C   O   H   C   N   C   C   C   C   H
-O   C   H   H   O   H   341 H   N   H   H   H   H   N   H
-N   H   341 341 341 341 341 341 341 341 341 341 341 341 341   O   C
+O   C   H   H   O   H   H-Bond H   N   H   H   H   H   N   H
+N   H   H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond   O   C
 C₂H₃O₂ carboxymethyl   C   H   H   C   C₂H₃O₂ carboxymethyl
-C   O   341 341 341 341 341 341 341 341 341 341 341 341 341   H   N
-... ...
+C   O   H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond   H   N

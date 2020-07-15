@@ -14113,7 +14113,8 @@
 <rect x='753' y='1169' width='7' height='7' style='fill:white'/>
 <rect x='761' y='1169' width='7' height='7' style='fill:white'/>
 <rect x='719' y='15' width='35' height='35' style='fill:red;opacity:0.5'/>
-<text x='737' y='33' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>61153</text>
+<text x='737' y='29' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:60px bold sans;'>○</text>
+<text x='737' y='41' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>Planet</text>
 <rect x='551' y='103' width='35' height='35' style='fill:yellow;opacity:0.5'/>
 <text x='569' y='117' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>MgCl₂</text>
 <text x='569' y='129' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:3px bold sans;'>magnesium dichloride</text>
@@ -14225,10 +14226,4 @@
 <rect x='159' y='1039' width='35' height='35' style='fill:yellow;opacity:0.5'/>
 <text x='177' y='1053' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:20px bold sans;'>H₂O</text>
 <text x='177' y='1065' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>water</text>
-<rect x='15' y='1151' width='59' height='11' style='fill:gray;opacity:0.5'/>
-<text x='45' y='1157' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:35px bold sans;'>...</text>
-<rect x='79' y='1151' width='59' height='11' style='fill:gray;opacity:0.5'/>
-<text x='109' y='1157' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:35px bold sans;'>...</text>
-<rect x='143' y='1151' width='59' height='11' style='fill:gray;opacity:0.5'/>
-<text x='173' y='1157' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:35px bold sans;'>...</text>
 </svg>

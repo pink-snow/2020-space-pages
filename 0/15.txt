@@ -1,4 +1,3 @@
-61153   H He
-H   H   49953 50145 4641   105 4641   B A   4641   B   H He H He H He H He H He
-...   ? ...   ... ... ... ... ...   H He H He
-... ... ...
+○ Planet   H He
+H   H   ²H Deuterium ³H Tritium 4641   105 4641   B A   4641   B   H He H He H He H He H He
+?   H He H He

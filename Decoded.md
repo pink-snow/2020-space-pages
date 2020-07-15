@@ -71,12 +71,12 @@ The notation is same as in the Pegovka numerals.
 
 08
 
-    title: BiologyA; ???; ???
+    title: BiologyA; BiologyA-1; BiologyA-2
     TODO
 
 09
 
-    title: BiologyB; ???; ???
+    title: BiologyB; BiologyB-1; BiologyB-2
     TODO
 
 Demonstration of polymer replication via base pairing (similar to DNA/RNA).
@@ -85,11 +85,11 @@ As more information that might be useful, DNA has a (deoxyribose sugar - phospha
 
 # 10
 
-    title: BiologyA; ???
+    title: BiologyA; BiologyA-1
 
 # 11
 
-    title: BiologyB; ???
+    title: BiologyB; BiologyB-1
 
 # 12
 

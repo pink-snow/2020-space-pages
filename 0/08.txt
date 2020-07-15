@@ -1,11 +1,11 @@
 CH₂-OH hydroxymethyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   CH₂-OH hydroxymethyl   A
-C₂H₂NO glycyl radical residue   C₂H₃O₂ carboxymethyl 341 C₂H₅O 1-hydroxyethyl   C₂H₂NO glycyl radical residue   17641
-CH₂-OH hydroxymethyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   CH₂-OH hydroxymethyl   58593
-C₂H₂NO glycyl radical residue   C₃H₅O₂ 2-carboxyethyl 341 C₄H₁₀N₃ 3-carbamimidamidopropyl   C₂H₂NO glycyl radical residue
+C₂H₂NO glycyl radical residue   C₂H₃O₂ carboxymethyl H-Bond C₂H₅O 1-hydroxyethyl   C₂H₂NO glycyl radical residue   A1
+CH₂-OH hydroxymethyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   CH₂-OH hydroxymethyl   A2
+C₂H₂NO glycyl radical residue   C₃H₅O₂ 2-carboxyethyl H-Bond C₄H₁₀N₃ 3-carbamimidamidopropyl   C₂H₂NO glycyl radical residue
 CH₂-OH hydroxymethyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   CH₂-OH hydroxymethyl
-C₂H₂NO glycyl radical residue   C₂H₃O₂ carboxymethyl 341 C₂H₅O 1-hydroxyethyl   C₂H₂NO glycyl radical residue
+C₂H₂NO glycyl radical residue   C₂H₃O₂ carboxymethyl H-Bond C₂H₅O 1-hydroxyethyl   C₂H₂NO glycyl radical residue
 CH₂-OH hydroxymethyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   CH₂-OH hydroxymethyl
-C₂H₂NO glycyl radical residue   C₂H₃O₂ carboxymethyl 341 C₂H₅O 1-hydroxyethyl   C₂H₂NO glycyl radical residue
+C₂H₂NO glycyl radical residue   C₂H₃O₂ carboxymethyl H-Bond C₂H₅O 1-hydroxyethyl   C₂H₂NO glycyl radical residue
 CH₂-OH hydroxymethyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   CH₂-OH hydroxymethyl
 C₂H₂NO glycyl radical residue   C₃H₅O₂ 2-carboxyethyl   C₄H₁₀N₃ 3-carbamimidamidopropyl   C₂H₂NO glycyl radical residue
 CH₂-OH hydroxymethyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   CH₂-OH hydroxymethyl
@@ -14,10 +14,9 @@ CH₂-OH hydroxymethyl   C₂H₂NO glycyl radical residue   C₄H₁₀N₃ 3-c
 CH₂-OH hydroxymethyl   C₂H₂NO glycyl radical residue C₂H₂NO glycyl radical residue   C₃H₅O₂ 2-carboxyethyl   C₂H₂NO glycyl radical residue   CH₂-OH hydroxymethyl CH₂-OH hydroxymethyl   C₂H₂NO glycyl radical residue   C₄H₁₀N₃ 3-carbamimidamidopropyl   C₂H₂NO glycyl radical residue C₂H₂NO glycyl radical residue   CH₂-OH hydroxymethyl
 C₂H₂NO glycyl radical residue   C₃H₅O₂ 2-carboxyethyl   C₄H₁₀N₃ 3-carbamimidamidopropyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   C₃H₅O₂ 2-carboxyethyl   C₄H₁₀N₃ 3-carbamimidamidopropyl   C₂H₂NO glycyl radical residue
 CH₂-OH hydroxymethyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   CH₂-OH hydroxymethyl CH₂-OH hydroxymethyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   CH₂-OH hydroxymethyl
-C₂H₂NO glycyl radical residue   C₂H₃O₂ carboxymethyl 341 C₂H₅O 1-hydroxyethyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   C₂H₃O₂ carboxymethyl 341 C₂H₅O 1-hydroxyethyl   C₂H₂NO glycyl radical residue
+C₂H₂NO glycyl radical residue   C₂H₃O₂ carboxymethyl H-Bond C₂H₅O 1-hydroxyethyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   C₂H₃O₂ carboxymethyl H-Bond C₂H₅O 1-hydroxyethyl   C₂H₂NO glycyl radical residue
 CH₂-OH hydroxymethyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   CH₂-OH hydroxymethyl CH₂-OH hydroxymethyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   CH₂-OH hydroxymethyl
-C₂H₂NO glycyl radical residue   C₃H₅O₂ 2-carboxyethyl 341 C₄H₁₀N₃ 3-carbamimidamidopropyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   C₃H₅O₂ 2-carboxyethyl 341 C₄H₁₀N₃ 3-carbamimidamidopropyl   C₂H₂NO glycyl radical residue
+C₂H₂NO glycyl radical residue   C₃H₅O₂ 2-carboxyethyl H-Bond C₄H₁₀N₃ 3-carbamimidamidopropyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   C₃H₅O₂ 2-carboxyethyl H-Bond C₄H₁₀N₃ 3-carbamimidamidopropyl   C₂H₂NO glycyl radical residue
 CH₂-OH hydroxymethyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   CH₂-OH hydroxymethyl CH₂-OH hydroxymethyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   CH₂-OH hydroxymethyl
-C₂H₂NO glycyl radical residue   C₂H₃O₂ carboxymethyl 341 C₂H₅O 1-hydroxyethyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   C₂H₃O₂ carboxymethyl 341 C₂H₅O 1-hydroxyethyl   C₂H₂NO glycyl radical residue
+C₂H₂NO glycyl radical residue   C₂H₃O₂ carboxymethyl H-Bond C₂H₅O 1-hydroxyethyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   C₂H₃O₂ carboxymethyl H-Bond C₂H₅O 1-hydroxyethyl   C₂H₂NO glycyl radical residue
 CH₂-OH hydroxymethyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   CH₂-OH hydroxymethyl CH₂-OH hydroxymethyl   C₂H₂NO glycyl radical residue   C₂H₂NO glycyl radical residue   CH₂-OH hydroxymethyl
-... ...

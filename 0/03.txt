@@ -1,5 +1,5 @@
 0
 H
-49953   0
+²H Deuterium   0
 0
-50145
+³H Tritium

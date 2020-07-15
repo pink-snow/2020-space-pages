@@ -24,4 +24,3 @@ H
 C₂H₄NO 2-amino-2-oxoethyl   C   C   N   H
 H   H
 O
-...

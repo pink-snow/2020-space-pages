@@ -34,4 +34,4 @@ H   H
 H   C   C
 C₇H₇O 4-hydroxybenzyl   C   C   C   O
 H   C   C   H
-...   H   H
+H   H

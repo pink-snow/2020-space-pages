@@ -18831,7 +18831,7 @@
 <rect x='719' y='15' width='35' height='35' style='fill:red;opacity:0.5'/>
 <text x='737' y='33' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:60px bold sans;'>A</text>
 <rect x='719' y='71' width='35' height='35' style='fill:red;opacity:0.5'/>
-<text x='737' y='89' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>17641</text>
+<text x='737' y='89' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>A1</text>
 <rect x='271' y='79' width='35' height='35' style='fill:yellow;opacity:0.5'/>
 <text x='289' y='93' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>C₂H₂NO</text>
 <text x='289' y='105' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:2px bold sans;'>glycyl radical residue</text>
@@ -18839,7 +18839,7 @@
 <text x='353' y='93' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>C₂H₃O₂</text>
 <text x='353' y='105' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>carboxymethyl</text>
 <rect x='375' y='79' width='27' height='27' style='fill:red;opacity:0.5'/>
-<text x='389' y='93' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:15px bold sans;'>341</text>
+<text x='389' y='93' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:7px bold sans;'>H-Bond</text>
 <rect x='407' y='79' width='35' height='35' style='fill:yellow;opacity:0.5'/>
 <text x='425' y='93' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>C₂H₅O</text>
 <text x='425' y='105' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>1-hydroxyethyl</text>
@@ -18847,7 +18847,7 @@
 <text x='489' y='93' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>C₂H₂NO</text>
 <text x='489' y='105' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:2px bold sans;'>glycyl radical residue</text>
 <rect x='719' y='127' width='35' height='35' style='fill:red;opacity:0.5'/>
-<text x='737' y='145' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>58593</text>
+<text x='737' y='145' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>A2</text>
 <rect x='207' y='143' width='35' height='35' style='fill:yellow;opacity:0.5'/>
 <text x='225' y='157' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>CH₂-OH</text>
 <text x='225' y='169' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>hydroxymethyl</text>
@@ -18867,7 +18867,7 @@
 <text x='353' y='221' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>C₃H₅O₂</text>
 <text x='353' y='233' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>2-carboxyethyl</text>
 <rect x='375' y='207' width='27' height='27' style='fill:red;opacity:0.5'/>
-<text x='389' y='221' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:15px bold sans;'>341</text>
+<text x='389' y='221' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:7px bold sans;'>H-Bond</text>
 <rect x='407' y='207' width='35' height='35' style='fill:yellow;opacity:0.5'/>
 <text x='425' y='221' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:8px bold sans;'>C₄H₁₀N₃</text>
 <text x='425' y='233' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:2px bold sans;'>3-carbamimidamidopropyl</text>
@@ -18893,7 +18893,7 @@
 <text x='353' y='349' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>C₂H₃O₂</text>
 <text x='353' y='361' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>carboxymethyl</text>
 <rect x='375' y='335' width='27' height='27' style='fill:red;opacity:0.5'/>
-<text x='389' y='349' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:15px bold sans;'>341</text>
+<text x='389' y='349' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:7px bold sans;'>H-Bond</text>
 <rect x='407' y='335' width='35' height='35' style='fill:yellow;opacity:0.5'/>
 <text x='425' y='349' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>C₂H₅O</text>
 <text x='425' y='361' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>1-hydroxyethyl</text>
@@ -18919,7 +18919,7 @@
 <text x='353' y='477' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>C₂H₃O₂</text>
 <text x='353' y='489' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>carboxymethyl</text>
 <rect x='375' y='463' width='27' height='27' style='fill:red;opacity:0.5'/>
-<text x='389' y='477' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:15px bold sans;'>341</text>
+<text x='389' y='477' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:7px bold sans;'>H-Bond</text>
 <rect x='407' y='463' width='35' height='35' style='fill:yellow;opacity:0.5'/>
 <text x='425' y='477' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>C₂H₅O</text>
 <text x='425' y='489' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>1-hydroxyethyl</text>
@@ -19089,7 +19089,7 @@
 <text x='161' y='1197' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>C₂H₃O₂</text>
 <text x='161' y='1209' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>carboxymethyl</text>
 <rect x='183' y='1183' width='27' height='27' style='fill:red;opacity:0.5'/>
-<text x='197' y='1197' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:15px bold sans;'>341</text>
+<text x='197' y='1197' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:7px bold sans;'>H-Bond</text>
 <rect x='215' y='1183' width='35' height='35' style='fill:yellow;opacity:0.5'/>
 <text x='233' y='1197' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>C₂H₅O</text>
 <text x='233' y='1209' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>1-hydroxyethyl</text>
@@ -19103,7 +19103,7 @@
 <text x='537' y='1197' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>C₂H₃O₂</text>
 <text x='537' y='1209' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>carboxymethyl</text>
 <rect x='559' y='1183' width='27' height='27' style='fill:red;opacity:0.5'/>
-<text x='573' y='1197' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:15px bold sans;'>341</text>
+<text x='573' y='1197' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:7px bold sans;'>H-Bond</text>
 <rect x='591' y='1183' width='35' height='35' style='fill:yellow;opacity:0.5'/>
 <text x='609' y='1197' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>C₂H₅O</text>
 <text x='609' y='1209' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>1-hydroxyethyl</text>
@@ -19141,7 +19141,7 @@
 <text x='161' y='1325' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>C₃H₅O₂</text>
 <text x='161' y='1337' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>2-carboxyethyl</text>
 <rect x='183' y='1311' width='27' height='27' style='fill:red;opacity:0.5'/>
-<text x='197' y='1325' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:15px bold sans;'>341</text>
+<text x='197' y='1325' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:7px bold sans;'>H-Bond</text>
 <rect x='215' y='1311' width='35' height='35' style='fill:yellow;opacity:0.5'/>
 <text x='233' y='1325' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:8px bold sans;'>C₄H₁₀N₃</text>
 <text x='233' y='1337' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:2px bold sans;'>3-carbamimidamidopropyl</text>
@@ -19155,7 +19155,7 @@
 <text x='537' y='1325' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>C₃H₅O₂</text>
 <text x='537' y='1337' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>2-carboxyethyl</text>
 <rect x='559' y='1311' width='27' height='27' style='fill:red;opacity:0.5'/>
-<text x='573' y='1325' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:15px bold sans;'>341</text>
+<text x='573' y='1325' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:7px bold sans;'>H-Bond</text>
 <rect x='591' y='1311' width='35' height='35' style='fill:yellow;opacity:0.5'/>
 <text x='609' y='1325' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:8px bold sans;'>C₄H₁₀N₃</text>
 <text x='609' y='1337' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:2px bold sans;'>3-carbamimidamidopropyl</text>
@@ -19193,7 +19193,7 @@
 <text x='161' y='1453' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>C₂H₃O₂</text>
 <text x='161' y='1465' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>carboxymethyl</text>
 <rect x='183' y='1439' width='27' height='27' style='fill:red;opacity:0.5'/>
-<text x='197' y='1453' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:15px bold sans;'>341</text>
+<text x='197' y='1453' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:7px bold sans;'>H-Bond</text>
 <rect x='215' y='1439' width='35' height='35' style='fill:yellow;opacity:0.5'/>
 <text x='233' y='1453' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>C₂H₅O</text>
 <text x='233' y='1465' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>1-hydroxyethyl</text>
@@ -19207,7 +19207,7 @@
 <text x='537' y='1453' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>C₂H₃O₂</text>
 <text x='537' y='1465' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>carboxymethyl</text>
 <rect x='559' y='1439' width='27' height='27' style='fill:red;opacity:0.5'/>
-<text x='573' y='1453' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:15px bold sans;'>341</text>
+<text x='573' y='1453' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:7px bold sans;'>H-Bond</text>
 <rect x='591' y='1439' width='35' height='35' style='fill:yellow;opacity:0.5'/>
 <text x='609' y='1453' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>C₂H₅O</text>
 <text x='609' y='1465' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>1-hydroxyethyl</text>
@@ -19238,8 +19238,4 @@
 <rect x='719' y='1503' width='35' height='35' style='fill:yellow;opacity:0.5'/>
 <text x='737' y='1517' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>CH₂-OH</text>
 <text x='737' y='1529' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>hydroxymethyl</text>
-<rect x='15' y='1543' width='59' height='11' style='fill:gray;opacity:0.5'/>
-<text x='45' y='1549' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:35px bold sans;'>...</text>
-<rect x='79' y='1543' width='59' height='11' style='fill:gray;opacity:0.5'/>
-<text x='109' y='1549' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:35px bold sans;'>...</text>
 </svg>

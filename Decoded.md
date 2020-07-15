@@ -67,15 +67,21 @@ The notation is same as in the Pegovka numerals.
     title: Amino_acid
     TODO
 
-# 08
+# 08 and 09
 
-    title: BioA; ???; ???
+08
+
+    title: BiologyA; ???; ???
     TODO
 
-# 09
+09
 
     title: BiologyB; ???; ???
     TODO
+
+Demonstration of polymer replication via base pairing (similar to DNA/RNA).
+
+As more information that might be useful, DNA has a (deoxyribose sugar - phosphate) chain that binds to nitrogenous bases; RNA is a (ribose sugar - phosphate) chain.
 
 # 10
 

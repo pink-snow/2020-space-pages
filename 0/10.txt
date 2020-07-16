@@ -2,11 +2,11 @@ H   N   H   A   A1   H   C   O
 H   C   C   C   O   H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H   O   C   C   H
 O   C   H   O   H   H H   C   N   H
 N   H   H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond   O   C
-CH₂-OH hydroxymethyl   C   H   H   C   CH₂-OH hydroxymethyl
+SER   C   H   H   C   SER
 C   O   H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond   H   N
 H   N   H   H   H-Bond H   N   H   H   H   C   O
 H   C   C   C   C   O   H   C   N   C   C   C   C   H
 O   C   H   H   O   H   H-Bond H   N   H   H   H   H   N   H
 N   H   H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond   O   C
-CH₂-OH hydroxymethyl   C   H   H   C   CH₂-OH hydroxymethyl
+SER   C   H   H   C   SER
 C   O   H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond H-Bond   H   N

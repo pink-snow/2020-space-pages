@@ -7059,9 +7059,8 @@
 <rect x='335' y='15' width='35' height='35' style='fill:red;opacity:0.5'/>
 <text x='353' y='29' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>Amino</text>
 <text x='353' y='41' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:15px bold sans;'>acid</text>
-<rect x='15' y='39' width='35' height='35' style='fill:yellow;opacity:0.5'/>
-<text x='33' y='53' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>C₂H₂NO</text>
-<text x='33' y='65' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:2px bold sans;'>glycyl radical residue</text>
+<rect x='15' y='39' width='35' height='35' style='fill:orange;opacity:0.5'/>
+<text x='33' y='57' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:20px bold sans;'>a01</text>
 <rect x='95' y='39' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='109' y='53' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>N</text>
 <rect x='175' y='39' width='27' height='27' style='fill:green;opacity:0.5'/>
@@ -7078,9 +7077,8 @@
 <text x='105' y='169' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>H</text>
 <rect x='175' y='159' width='19' height='19' style='fill:green;opacity:0.5'/>
 <text x='185' y='169' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>H</text>
-<rect x='15' y='207' width='35' height='35' style='fill:yellow;opacity:0.5'/>
-<text x='33' y='221' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>C₂H₆N</text>
-<text x='33' y='233' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:5px bold sans;'>1-aminoethyl</text>
+<rect x='15' y='207' width='35' height='35' style='fill:orange;opacity:0.5'/>
+<text x='33' y='225' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:20px bold sans;'>a02</text>
 <rect x='95' y='207' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='109' y='221' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>C</text>
 <rect x='175' y='207' width='27' height='27' style='fill:green;opacity:0.5'/>
@@ -7099,9 +7097,8 @@
 <text x='105' y='345' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>H</text>
 <rect x='175' y='335' width='19' height='19' style='fill:green;opacity:0.5'/>
 <text x='185' y='345' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>H</text>
-<rect x='15' y='383' width='35' height='35' style='fill:yellow;opacity:0.5'/>
-<text x='33' y='397' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:8px bold sans;'>CH₂-CH₃</text>
-<text x='33' y='409' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>ethyl</text>
+<rect x='15' y='383' width='35' height='35' style='fill:orange;opacity:0.5'/>
+<text x='33' y='401' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:20px bold sans;'>a03</text>
 <rect x='95' y='383' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='109' y='397' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>C</text>
 <rect x='175' y='383' width='27' height='27' style='fill:green;opacity:0.5'/>
@@ -7114,9 +7111,8 @@
 <text x='105' y='441' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>H</text>
 <rect x='95' y='463' width='19' height='19' style='fill:green;opacity:0.5'/>
 <text x='105' y='473' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>H</text>
-<rect x='15' y='511' width='35' height='35' style='fill:yellow;opacity:0.5'/>
-<text x='33' y='525' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:8px bold sans;'>CH₂-NH₂</text>
-<text x='33' y='537' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:7px bold sans;'>1-amine-</text>
+<rect x='15' y='511' width='35' height='35' style='fill:orange;opacity:0.5'/>
+<text x='33' y='529' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:20px bold sans;'>a04</text>
 <rect x='95' y='511' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='109' y='525' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>C</text>
 <rect x='175' y='511' width='27' height='27' style='fill:green;opacity:0.5'/>
@@ -7129,9 +7125,8 @@
 <text x='105' y='569' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>H</text>
 <rect x='95' y='591' width='19' height='19' style='fill:green;opacity:0.5'/>
 <text x='105' y='601' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>H</text>
-<rect x='15' y='639' width='35' height='35' style='fill:yellow;opacity:0.5'/>
-<text x='33' y='653' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>CH₂-OH</text>
-<text x='33' y='665' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>hydroxymethyl</text>
+<rect x='15' y='639' width='35' height='35' style='fill:orange;opacity:0.5'/>
+<text x='33' y='657' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:20px bold sans;'>SER</text>
 <rect x='95' y='639' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='109' y='653' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>C</text>
 <rect x='175' y='639' width='27' height='27' style='fill:green;opacity:0.5'/>
@@ -7144,9 +7139,8 @@
 <text x='105' y='729' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>H</text>
 <rect x='175' y='719' width='19' height='19' style='fill:green;opacity:0.5'/>
 <text x='185' y='729' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>H</text>
-<rect x='15' y='767' width='35' height='35' style='fill:yellow;opacity:0.5'/>
-<text x='33' y='781' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>C₂H₅O</text>
-<text x='33' y='793' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>1-hydroxyethyl</text>
+<rect x='15' y='767' width='35' height='35' style='fill:orange;opacity:0.5'/>
+<text x='33' y='785' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:20px bold sans;'>THR</text>
 <rect x='95' y='767' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='109' y='781' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>C</text>
 <rect x='175' y='767' width='27' height='27' style='fill:green;opacity:0.5'/>
@@ -7163,9 +7157,8 @@
 <text x='105' y='873' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>H</text>
 <rect x='175' y='863' width='19' height='19' style='fill:green;opacity:0.5'/>
 <text x='185' y='873' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>H</text>
-<rect x='15' y='911' width='35' height='35' style='fill:yellow;opacity:0.5'/>
-<text x='33' y='925' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:12px bold sans;'>C₂H₅O</text>
-<text x='33' y='937' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:4px bold sans;'>2-hydroxyethyl</text>
+<rect x='15' y='911' width='35' height='35' style='fill:orange;opacity:0.5'/>
+<text x='33' y='929' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:20px bold sans;'>a07</text>
 <rect x='95' y='911' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='109' y='925' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>C</text>
 <rect x='175' y='911' width='27' height='27' style='fill:green;opacity:0.5'/>
@@ -7180,9 +7173,8 @@
 <text x='265' y='969' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>H</text>
 <rect x='95' y='991' width='19' height='19' style='fill:green;opacity:0.5'/>
 <text x='105' y='1001' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:30px bold sans;'>H</text>
-<rect x='15' y='1039' width='35' height='35' style='fill:yellow;opacity:0.5'/>
-<text x='33' y='1053' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:10px bold sans;'>C₂H₄NO</text>
-<text x='33' y='1065' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:3px bold sans;'>2-amino-2-oxoethyl</text>
+<rect x='15' y='1039' width='35' height='35' style='fill:orange;opacity:0.5'/>
+<text x='33' y='1057' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:20px bold sans;'>ASN</text>
 <rect x='95' y='1039' width='27' height='27' style='fill:green;opacity:0.5'/>
 <text x='109' y='1053' dominant-baseline='middle' text-anchor='middle' fill='white' style='paint-order: stroke; fill: white; stroke: black; stroke-width: 2px; font:45px bold sans;'>C</text>
 <rect x='175' y='1039' width='27' height='27' style='fill:green;opacity:0.5'/>
